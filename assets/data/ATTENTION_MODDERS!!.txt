@@ -1,0 +1,13 @@
+--|| hitsoundPack ||--
+Make sure to also add the hitsound sounds in assets/sounds/hitsounds when adding custom hitsounds (the game will crash if you dont, you have been warned)
+
+--|| skinPack ||--
+(literally same as hitsoundPack)
+Make sure to also add the skin stuff in assets/images/skins when adding custom skins
+
+
+
+|| SKINS ||
+Skins use the new loading system, with an exception. All assets in ''assets/<week>/X'' should be put in ''skin/X'', instead of ''skin/<week>/X''
+Assets allowed in skins, currently: images, music, sounds
+(make sure to leave credit when using other mod's assets!)

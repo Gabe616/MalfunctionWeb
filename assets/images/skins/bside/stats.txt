@@ -1,0 +1,3 @@
+name:B-Side
+author:Rozebud, JADS, Cval
+description:Skin from FNF B-Side

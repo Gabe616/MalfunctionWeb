@@ -1,0 +1,3 @@
+name:Neo
+author:MrMoisty, EvanClubYt, JellyFishedM, MagnusStrom, BeeBox
+description:Skin from FNF Neo

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueHeads.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BoyFriend WTF" x="0" y="0" width="340" height="235"/>
+	<SubTexture name="BoyFriend FUNNE" x="340" y="0" width="340" height="235"/>
+	<SubTexture name="BoyFriend SCARED" x="680" y="0" width="340" height="235"/>
+	<SubTexture name="BoyFriend SUPRISED" x="1020" y="0" width="340" height="235"/>
+	<SubTexture name="BoyFriend PEACE" x="1360" y="0" width="340" height="235"/>
+	<SubTexture name="BoyFriend SEIZURE" x="1700" y="0" width="340" height="235"/>
+	<SubTexture name="GirlFriend CRY" x="0" y="235" width="340" height="235"/>
+	<SubTexture name="GirlFriend CHEER" x="340" y="235" width="340" height="235"/>
+	<SubTexture name="GirlFriend SCARED" x="680" y="235" width="340" height="235"/>
+	<SubTexture name="GirlFriend FUNNE" x="1020" y="235" width="340" height="235"/>
+	<SubTexture name="GirlFriend FUCKYOU" x="1360" y="235" width="340" height="235"/>
+	<SubTexture name="GirlFriend HAIRFALL" x="1700" y="235" width="340" height="235"/>
+	<SubTexture name="lol" x="0" y="470" width="340" height="235"/>
+</TextureAtlas>
